@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Yarr World</string>
+    <string name="welcome_text" translatable="false">Welcome to CS 273 - Mobile Application Development</string>
+    <string name="toast_text">Yarr World!</string>
+    <string name="button_text">SHIVER ME TIMBERS</string>
+    <string name="pirate_description" translatable="false">This is just to get Android Studio to shut up. In this case, a description isn't necessary, I feel.</string>
 </resources>
